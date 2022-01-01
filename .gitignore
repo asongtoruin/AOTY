@@ -1,3 +1,5 @@
 /.idea/*
-/*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
 *.xlsx
+Data Cache/
+.cache-*
